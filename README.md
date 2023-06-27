@@ -19,7 +19,7 @@ Navigate to the racetrack folder and give the following command
 </br>
 </br>`ros2 launch multi_robot robotlaunch.launch.py world:=worlds/tracknew.world`
 
-## Step 4(Launching the obstacle avoidance node)
+## Step 4(Launching the obstacle avoidance nodes)
 `ros2 launch obav obstacleavoidance.launch.py`
 
 
@@ -32,8 +32,8 @@ Navigate to the racetrack folder and give the following command
 
 
  # Results
+ 
 
 file:///home/shxck/Videos/Screencasts/finalvid.webm
 
 
-As Per t
