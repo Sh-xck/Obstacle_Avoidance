@@ -1,5 +1,6 @@
 # Obstacle_Avoidance
-![Screenshot from 2023-06-27 18-37-12](https://github.com/Sh-xck/Obstacle_Avoidance/assets/120919844/f1681355-2be5-4658-ac9f-662089006d5e)
+![image](https://github.com/Sh-xck/Obstacle_Avoidance/assets/120919844/74ef2376-114e-4f09-b173-69b7ae6c085a)
+
 ## Step 1(Building the package)
 Download the files into the src dir of your ros workspace </br>
 </br>
@@ -34,7 +35,11 @@ Navigate to the racetrack folder and give the following command
  # Results
 
  
-https://github.com/Sh-xck/Obstacle_Avoidance/assets/120919844/7edbb1ad-4b79-4343-8298-51f5629598cc
+
+https://github.com/Sh-xck/Obstacle_Avoidance/assets/120919844/83019cd6-145a-4221-907f-c74f235981ca
+
+
+
 
 
 
