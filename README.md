@@ -33,7 +33,6 @@ Navigate to the racetrack folder and give the following command
 
  # Results
  
-file:///home/shxck/Downloads/Untitled.mp4
 
 
 
