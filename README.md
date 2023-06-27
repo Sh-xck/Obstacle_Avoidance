@@ -39,6 +39,7 @@ Navigate to the racetrack folder and give the following command
 https://github.com/Sh-xck/Obstacle_Avoidance/assets/120919844/83019cd6-145a-4221-907f-c74f235981ca
 
 
+Even with more obstacles in its path the robot equipped with the lidar takes the lead
 
 
 
