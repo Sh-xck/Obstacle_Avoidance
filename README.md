@@ -24,16 +24,17 @@ Navigate to the racetrack folder and give the following command
 
 
  # About the package 
- This package creates a gazebo simulation using ros2 where 2 robots are spawned in one world 
+ This package creates a gazebo simulation using ros2 where 2 robots are spawned in one world in which
+ one robot is equipped with a camera and the other is equipped with a lidar and they follow 2 different algorithms
  </br>
- One robot is equiped with a camera and the other with a lidar and they follow 2 different algorithms
  </br>
- This project showcases the potential of integrating different sensing technologies and utilizing ROS2 for simulating and testing obstacle avoidance algorithms in a racetrack setting.
+ This project showcases the potential of integrating different sensing technologies and comparing the two technologies where we utilize ROS2 for simulating and testing obstacle avoidance algorithms in a racetrack setting.
 
 
  # Results
  
+file:///home/shxck/Downloads/Untitled.mp4
 
-file:///home/shxck/Videos/Screencasts/finalvid.webm
+
 
 
