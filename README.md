@@ -1,7 +1,7 @@
 # Obstacle_Avoidance
 ![image](https://github.com/Sh-xck/Obstacle_Avoidance/assets/120919844/74ef2376-114e-4f09-b173-69b7ae6c085a)
 
-## Step 1(Building the package)
+## Step 1(Building the package with colcon build)
 Download the files into the src dir of your ros workspace. </br>
 </br>
   `cd ros2_ws ` </br>
